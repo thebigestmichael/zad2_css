@@ -1,0 +1,34 @@
+body {
+    background-color: #2e8b57;
+    font-size: 16px; /* 2.5rem Или 36px, 40px */
+    /* Семейство шрифтов: современные беззасечные */
+    font-family: Arial, Helvetica;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 30;
+    margin-bottom: 10px;
+}
+h1 {
+  text-align: center;
+  /* Размер шрифта: 32-40px оптимально для десктопа */
+  font-size: 36px; /* 2.5rem Или 36px, 40px */
+  
+  /* Семейство шрифтов: современные беззасечные */
+  font-family: 'Montserrat', sans-serif;
+  
+  /* Жирность: bold или 700/800 */
+  font-weight: bold;
+  
+  /* Цвет: темный, но не чисто черный */
+  color: #222;
+  
+  /* Межстрочный интервал для заголовков */
+  line-height: 1.2;
+  
+  /* Отступы: убираем сверху, добавляем снизу */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+p {
+  text-align: justify;
+}
